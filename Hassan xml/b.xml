@@ -1,0 +1,22 @@
+<Employee>
+    <EmployeeInfo>
+        <Name>
+            <FirstName></FirstName>
+            <SecondName></SecondName>
+            <ThirdName></ThirdName>
+        </Name>
+        <ContactInfo>
+            <CompanyInfo>
+                <CompanyName></CompanyName>
+                <CompanyLocation>
+                    <Street></Street>
+                    <City></City>
+                    <Phone></Phone>
+                </CompanyLocation>
+                <Designation></Designation>
+            </CompanyInfo>
+            <PhoneNo.></PhoneNo.>
+            <EmailAddress></EmailAddress>
+        </ContactInfo>
+    </EmployeeInfo>
+</Employee>

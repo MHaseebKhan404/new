@@ -1,0 +1,35 @@
+<FortRandDo>
+    <AssignOp>
+        <VerRelExpi></VerRelExpi>
+        <InVal1></InVal1>
+    </AssignOp>
+    <vERrEFepM></vERrEFepM>
+    <NullExpression></NullExpression>
+    <BasicBook>
+        <FortanDo>
+            <AssignOp>
+                <VerRelExpi></VerRelExpi>
+                <InVal1></InVal1>
+            </AssignOp>
+            <vERrEFepM></vERrEFepM>
+            <NullExpression></NullExpression>
+            <BasicBook>
+                <ExprStatement>
+                    <AssignOp>
+                        <Pntrarrrefexp>
+                            <varrepexp></varrepexp>
+                            <exprlistexp>
+                                <varrepexpi></varrepexpi>
+                                <varrepexpj></varrepexpj>
+                            </exprlistexp>
+                        </Pntrarrrefexp>
+                        <AddOp>
+                            <varrepexpi></varrepexpi>
+                            <varrepexpj></varrepexpj>
+                        </AddOp>
+                    </AssignOp>
+                </ExprStatement>
+            </BasicBook>
+        </FortanDo>
+    </BasicBook>
+</FortRandDo>
